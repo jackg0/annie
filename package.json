@@ -1,11 +1,26 @@
 {
-	"name": "wordify",
-	"version": "0.1",
-	"description": "",
-	"main": "index.js",
-	"scripts": {
-		"start": "node index.js"
-	},
-	"author": "Jack Geissinger",
-	"license": "AGPL v3"
+  "name": "wordify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jack Geissinger",
+  "license": "AGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackg0/wordify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jackg0/wordify/issues"
+  },
+  "homepage": "https://github.com/jackg0/wordify#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "neo4j-driver": "^1.0.3",
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0"
+  }
 }

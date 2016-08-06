@@ -1,0 +1,11 @@
+{
+	"name": "wordify",
+	"version": "0.1",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "Jack Geissinger",
+	"license": "AGPL v3"
+}

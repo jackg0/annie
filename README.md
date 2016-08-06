@@ -1,2 +1,2 @@
-# wordify
-# This project is an NLP machine learning program that will be launched on wordify.org
+# Annie is an NLP machine learning web application that will be launched on wordify.org.
+
